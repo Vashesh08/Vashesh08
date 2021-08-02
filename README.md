@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Vashesh08
-- 👀 I’m interested in Software Development
+- 👀 I’m interested in Data Analytics/Data Science
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Python
 - 📫 How to reach me vashesh2001@gmail.com
