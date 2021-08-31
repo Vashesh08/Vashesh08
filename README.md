@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Python
 - 📫 How to reach me vashesh2001@gmail.com
+Student @ Thadomal Shahani Engineering college
 
 <!---
 Vashesh08/Vashesh08 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
