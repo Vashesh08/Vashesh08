@@ -6,7 +6,7 @@ Full-stack Web Developer
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Vashesh08&theme=gruvbox_light&layout=compact)<hr>
 
 - 👀 I’m interested in Web Development
-- 📫 How to reach me vashesh2001@gmail.com
+- 📫 How to reach me :
 
 - <a href="mailto:vashesh2001@gmail.com" target="_blank" rel="noopener noreferrer"><img src="Gmail.png" alt="Gmail@vashesh-jogani" style="height:20px;"></a>
 <a href="https://www.linkedin.com/in/vashesh-jogani" target="_blank" rel="noopener noreferrer"><img src="Linkedin.png" alt="LinkedIn@vashesh-jogani" style="height:20px;"></a>
