@@ -9,6 +9,7 @@ Full-stack Web Developer
 - 📫 How to reach me vashesh2001@gmail.com
 
 - <a href="https://www.linkedin.com/in/vashesh-jogani" target="_blank" rel="noopener noreferrer"><img src="Linkedin.png" alt="LinkedIn@vashesh-jogani" style="height:20px;"></a>
+<a href="https://twitter.com/Vashesh2" target="_blank" rel="noopener noreferrer" hreflang="en"><img src="Twitter.png" alt="Twitter@vashesh-jogani"></a>
 
 
 <!---
