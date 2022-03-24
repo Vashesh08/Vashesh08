@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Vashesh
 
-Full-stack Web Developer
+Python Developer / Web Developer
 
-- 👀 I’m interested in Tech
 - 📫 How to reach me :
 
   <a href="mailto:vashesh2001@gmail.com" target="_blank" rel="noopener noreferrer"><img src="Gmail.png" alt="Gmail@vashesh-jogani" style="height:20px;"></a>
