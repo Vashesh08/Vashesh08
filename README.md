@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Vashesh
+ Hi, I’m Vashesh
 
 Python Developer / Web Developer
 
-- 📫 How to reach me :
+ How to reach me :
 
   <a href="mailto:vashesh2001@gmail.com" target="_blank" rel="noopener noreferrer"><img src="Gmail.png" alt="Gmail@vashesh-jogani" style="height:20px;"></a>
   <a href="https://www.linkedin.com/in/vashesh-jogani" target="_blank" rel="noopener noreferrer"><img src="Linkedin.png" alt="LinkedIn@vashesh-jogani" style="height:20px;"></a>
