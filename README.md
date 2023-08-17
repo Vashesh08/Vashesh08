@@ -9,7 +9,10 @@ Download My Resume: <a href="https://vashesh.deta.dev/resume"  target="_blank" r
   <a href="mailto:vashesh2001@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://vashesh.deta.dev/static/Gmail.png" alt="Gmail" style="height:30px;"></a>
   <a href="https://www.linkedin.com/in/vashesh-jogani" target="_blank" rel="noopener noreferrer"><img src="https://vashesh.deta.dev/static/Linkedin.png" alt="LinkedIn" style="height:30px;"></a>
   
-View My Website and Projects: <a href="https://vashesh.deta.dev/"  target="_blank" rel="noopener noreferrer"> https://vashesh.deta.dev/</a>
+View My Website and Projects: 
+<a href="https://vashesh.deta.dev/"  target="_blank" rel="noopener noreferrer"> https://vashesh.deta.dev/</a>
+
+<a href="https://personal-portfolio-website-lon7.onrender.com"  target="_blank" rel="noopener noreferrer"> https://personal-portfolio-website-lon7.onrender.com</a>
  
 
 
