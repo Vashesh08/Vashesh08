@@ -13,7 +13,9 @@ View My Website and Projects:
 <a href="https://vashesh.deta.dev/"  target="_blank" rel="noopener noreferrer"> https://vashesh.deta.dev/</a>
 
 <a href="https://personal-portfolio-website-lon7.onrender.com"  target="_blank" rel="noopener noreferrer"> https://personal-portfolio-website-lon7.onrender.com</a>
- 
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Vashesh08&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vashesh08&theme=tokyonight)
 
 
 <!---
