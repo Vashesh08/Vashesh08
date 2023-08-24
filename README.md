@@ -24,7 +24,7 @@ View My Website and Projects:
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Vashesh08&" alt="Vashesh08" /></p>
 
-![](https://komarev.com/ghpvc/?username=Vashesh08)
+![](https://komarev.com/ghpvc/?username=Vashesh08&color=brightgreen&style=flat)
 
 <!---
 Vashesh08/Vashesh08 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
