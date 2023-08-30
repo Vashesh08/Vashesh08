@@ -18,9 +18,9 @@ View My Website and Projects:
 ![Top Langs](https://github-readme-stats-one-khaki.vercel.app/api/top-langs/?username=Vashesh08&theme=tokyonight)-->
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Vashesh08&show_icons=true&locale=en&layout=compact" alt="piyushgarg-dev" /></p>
+<p><img align="left" src="https://github-readme-stats-one-khaki.vercel.app/api/top-langs?username=Vashesh08&show_icons=true&locale=en&layout=compact" alt="Vashesh08" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Vashesh08&show_icons=true&locale=en" alt="piyushgarg-dev" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-one-khaki.vercel.app/api?username=Vashesh08&show_icons=true&locale=en" alt="Vashesh08" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Vashesh08&" alt="Vashesh08" /></p>
 
