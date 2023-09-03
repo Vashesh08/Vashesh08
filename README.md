@@ -1,8 +1,11 @@
+
+ 
+<div align="center">
  Hi, I’m Vashesh
 
 Python Developer / Web Developer
 
-Download My Resume: <a href="https://vashesh.deta.dev/resume"  target="_blank" rel="noopener noreferrer"> Resume </a>
+<a href="https://vashesh.deta.dev/resume"  target="_blank" rel="noopener noreferrer"> Resume </a>
 
  How to reach me :
 
@@ -14,12 +17,13 @@ View My Website and Projects:
 
 <!--a href="https://personal-portfolio-website-lon7.onrender.com"  target="_blank" rel="noopener noreferrer"> https://personal-portfolio-website-lon7.onrender.com</a
 
+
+<p><img align="center" src="https://github-readme-stats-one-khaki.vercel.app/api/top-langs?username=Vashesh08&show_icons=true&locale=en" alt="Vashesh08" /></p>
 ![GitHub stats](https://github-readme-stats-one-khaki.vercel.app/api?username=Vashesh08&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats-one-khaki.vercel.app/api/top-langs/?username=Vashesh08&theme=tokyonight)-->
+![Top Langs](https://github-readme-stats-one-khaki.vercel.app/api/top-langs/?username=Vashesh08&theme=tokyonight)
+-->
 
-
-<p><img align="left" src="https://github-readme-stats-one-khaki.vercel.app/api/top-langs?username=Vashesh08&show_icons=true&locale=en&layout=compact" alt="Vashesh08" /></p>
-
+<div align="center">
 <p>&nbsp;<img align="center" src="https://github-readme-stats-one-khaki.vercel.app/api?username=Vashesh08&show_icons=true&locale=en" alt="Vashesh08" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Vashesh08&" alt="Vashesh08" /></p>
