@@ -5,8 +5,6 @@
 
 Python Developer / Web Developer
 
-Previously Interned @ Deutsche Bank India and Perceived Design
-
 <a href="https://vashesh.deta.dev/resume"  target="_blank" rel="noopener noreferrer"> Resume </a>
 
  How to reach me :
