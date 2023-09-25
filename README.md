@@ -26,7 +26,7 @@ View My Website and Projects:
 <div align="center">
 <p>&nbsp;<img align="center" src="https://github-readme-stats-one-khaki.vercel.app/api?username=Vashesh08&show_icons=true&locale=en" alt="Vashesh08" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Vashesh08&" alt="Vashesh08" /></p>
+<!--p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Vashesh08&" alt="Vashesh08" /></p-->
 
 <p><img align="center" src="https://github-readme-stats-one-khaki.vercel.app/api/top-langs/?username=Vashesh08&" alt="Top Languages"/></p>
 
