@@ -18,17 +18,17 @@ View My Website and Projects:
 <!--a href="https://personal-portfolio-website-lon7.onrender.com"  target="_blank" rel="noopener noreferrer"> https://personal-portfolio-website-lon7.onrender.com</a
 
 
-<p><img align="center" src="https://github-readme-stats-one-khaki.vercel.app/api/top-langs?username=Vashesh08&show_icons=true&locale=en" alt="Vashesh08" /></p>
-![GitHub stats](https://github-readme-stats-one-khaki.vercel.app/api?username=Vashesh08&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats-one-khaki.vercel.app/api/top-langs/?username=Vashesh08&theme=tokyonight)
+<p><img align="center" src="https://github-readme-stats-liard-nine-45.vercel.app/api/top-langs?username=Vashesh08&show_icons=true&locale=en" alt="Vashesh08" /></p>
+![GitHub stats](https://github-readme-stats-liard-nine-45.vercel.app/api?username=Vashesh08&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats-liard-nine-45.vercel.app/api/top-langs/?username=Vashesh08&theme=tokyonight)
 -->
 
 <div align="center">
-<p>&nbsp;<img align="center" src="https://github-readme-stats-one-khaki.vercel.app/api?username=Vashesh08&show_icons=true&locale=en" alt="Vashesh08" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-liard-nine-45.vercel.app/api?username=Vashesh08&show_icons=true&locale=en" alt="Vashesh08" /></p>
 
-<!--p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Vashesh08&" alt="Vashesh08" /></p-->
+<!--p><img align="center" src="https://github-readme-stats-liard-nine-45.vercel.app/?user=Vashesh08&" alt="Vashesh08" /></p-->
 
-<p><img align="center" src="https://github-readme-stats-one-khaki.vercel.app/api/top-langs/?username=Vashesh08&" alt="Top Languages"/></p>
+<p><img align="center" src="https://github-readme-stats-liard-nine-45.vercel.app/api/top-langs/?username=Vashesh08&" alt="Top Languages"/></p>
 
 ![](https://komarev.com/ghpvc/?username=Vashesh08&color=brightgreen&style=flat)
 
