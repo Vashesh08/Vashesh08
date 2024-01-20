@@ -9,11 +9,11 @@ Python Developer / Web Developer
 
  How to reach me :
 
-  <a href="mailto:vashesh2001@gmail.com" target="_blank" rel="noopener noreferrer"><img src="http://vashesh.me/static/Gmail.png" alt="Gmail" style="height:30px;"></a>
-  <a href="https://www.linkedin.com/in/vashesh-jogani" target="_blank" rel="noopener noreferrer"><img src="http://vashesh.me/static/Linkedin.png" alt="LinkedIn" style="height:30px;"></a>
+  <a href="mailto:vashesh2001@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://vashesh.me/static/Gmail.png" alt="Gmail" style="height:30px;"></a>
+  <a href="https://www.linkedin.com/in/vashesh-jogani" target="_blank" rel="noopener noreferrer"><img src="https://vashesh.me/static/Linkedin.png" alt="LinkedIn" style="height:30px;"></a>
   
 View My Website and Projects: 
-<a href="http://vashesh.me/"  target="_blank" rel="noopener noreferrer"> http://vashesh.me/ </a>
+<a href="https://vashesh.me/"  target="_blank" rel="noopener noreferrer"> http://vashesh.me/ </a>
 
 <!--a href="https://personal-portfolio-website-lon7.onrender.com"  target="_blank" rel="noopener noreferrer"> https://personal-portfolio-website-lon7.onrender.com</a
 
