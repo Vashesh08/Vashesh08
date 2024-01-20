@@ -5,7 +5,7 @@
 
 Python Developer / Web Developer
 
-<a href="http://vashesh.me/resume"  target="_blank" rel="noopener noreferrer"> Resume </a>
+<a href="https://vashesh.me/resume"  target="_blank" rel="noopener noreferrer"> Resume </a>
 
  How to reach me :
 
@@ -13,7 +13,7 @@ Python Developer / Web Developer
   <a href="https://www.linkedin.com/in/vashesh-jogani" target="_blank" rel="noopener noreferrer"><img src="https://vashesh.me/static/Linkedin.png" alt="LinkedIn" style="height:30px;"></a>
   
 View My Website and Projects: 
-<a href="https://vashesh.me/"  target="_blank" rel="noopener noreferrer"> http://vashesh.me/ </a>
+<a href="https://vashesh.me/"  target="_blank" rel="noopener noreferrer"> https://vashesh.me/ </a>
 
 <!--a href="https://personal-portfolio-website-lon7.onrender.com"  target="_blank" rel="noopener noreferrer"> https://personal-portfolio-website-lon7.onrender.com</a
 
